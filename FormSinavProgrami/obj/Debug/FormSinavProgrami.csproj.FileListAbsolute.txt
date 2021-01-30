@@ -1,0 +1,25 @@
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\bin\Debug\FormSinavProgrami.exe.config
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\bin\Debug\FormSinavProgrami.exe
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\bin\Debug\FormSinavProgrami.pdb
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.csprojResolveAssemblyReference.cache
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.Form1.resources
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.Properties.Resources.resources
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.csproj.GenerateResource.Cache
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.exe
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.pdb
+C:\www.programlamadersleri.com\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.FormAdSoyad.resources
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Debug\FormSinavProgrami.exe.config
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Debug\FormSinavProgrami.exe
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Debug\FormSinavProgrami.pdb
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Debug\XanderUI.dll
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.Form1.resources
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.FormAdSoyad.resources
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.Properties.Resources.resources
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.csproj.GenerateResource.cache
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.csproj.CoreCompileInputs.cache
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.csproj.CopyComplete
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.exe
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.pdb
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\bin\Debug\agq\FormSinavProgrami.resources.dll
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\FormSinavProgrami.FormAdSoyad.agq.resources
+D:\Visual Studio\FormSinavProgrami\FormSinavProgrami\FormSinavProgrami\obj\Debug\agq\FormSinavProgrami.resources.dll
